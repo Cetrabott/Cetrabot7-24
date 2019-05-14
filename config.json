@@ -1,0 +1,38 @@
+{
+"bot": {
+    "token": "",
+    "owner": [""],
+    "name": "Cetrabot",
+    "year": "2018",
+    "prefix": "c!",
+    "version": "v0.0.9"
+},
+"customEmojis": {
+    "yükleniyor": "<:yükleniyor:468736436225572867>"
+},
+"dbotSites": {
+    "botspwToken": "",
+    "DBLToken": ""
+},
+"localSite": {
+    "secret": "theSuperSecret",
+    "chekInGuildRoute": "http://localhost:1234/checkInGuild"
+},
+"hooks": {
+    "guildLogHook": {
+        "id": "",
+        "token": ""
+    },
+    "bugHook": {
+        "id": "",
+        "token": ""
+    },
+    "suggestHook": {
+        "id": "",
+        "token": ""
+    }
+},
+"checkerBoat": {
+    "token": ""
+}
+}
